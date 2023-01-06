@@ -12,7 +12,7 @@ public class test2 {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.irctc.com/contact.html");
-		
+		uploaded
 	}
 
 
